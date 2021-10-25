@@ -64,3 +64,5 @@ Aide ici.
 
 3. Rendu attendu
 L'ensemble de tes 5 scripts Python, rangés dans des fichiers py.
+
+<img src="https://i.imgur.com/h5ZErpX.mp4" width="547" alt="Cute Animal Taxes">
